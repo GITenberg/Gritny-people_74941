@@ -1,0 +1,51 @@
+_repo: Gritny-people_74941
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Tinker, Edward Larocque
+    birthdate: 1881
+    deathdate: 1968
+    gutenberg_agent_id: '57739'
+    url: http://www.gutenberg.org/2009/agents/57739
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Larocque_Tinker
+creator:
+  author:
+    agent_name: Kennedy, R. Emmet (Robert Emmet)
+    alias: Kennedy, Robert Emmet
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '57738'
+    url: http://www.gutenberg.org/2009/agents/57738
+description: ''
+gutenberg_issued: '2024-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74941'
+  lccn: '27024705'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.41739
+pgterms:marc905: 20230327075917kennedy
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'African Americans -- Louisiana -- Gretna -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Aunt Susan Smiley -- Tom and Bell -- The interprise -- Scilla --
+  Felo and Nookie -- Uncle Foteen -- Plunkum -- Uncle Nat -- Roving Roxy -- Carmelite,
+  Soongy and Dink -- Dink's music -- Gussie Fisky -- Maggie Hutson -- Lizzie and Chester
+  -- Scandalizin' -- Lethe and Aunt Amy -- Felo's white folks -- Upsetment -- Felo
+  and Lethe -- 'Cross the pasture -- Tempe -- Sperret noises -- Scilla's discovery
+  -- Carmelite and Aunt Fisky -- Dink at home -- Gussie and Mr. Hooblitz -- Carmelite's
+  raffle -- The switch engine -- News from Gritny -- Housekeeping -- Gussie's wake
+  -- To furren parts -- Buzzum friends.
+title: Gritny people
+url: http://www.gutenberg.org/ebooks/74941
